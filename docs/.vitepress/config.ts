@@ -26,5 +26,5 @@ export default defineConfig({
     ]
   },
 
-  base: '/vitepress-poc-2'
+  base: '/vitepress-poc-2/docs'
 })
